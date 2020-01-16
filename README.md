@@ -1,6 +1,7 @@
 ## NOTE
 
 run "npm install" to install the node_modules
+
 then run "npm start" to run the game in the browser
 
 ## Overview
